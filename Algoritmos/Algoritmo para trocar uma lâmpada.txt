@@ -1,0 +1,14 @@
+ Algoritmo para trocar uma lâmpada
+
+Passo 1- Desligue a luz
+
+Passo 2- Desrosqueie a lâmpada quebrada 
+
+Passo 3- Insira a lâmpada nova 
+
+Passo 4- Rosqueia a lâmpada nova 
+
+Passo 5- Ligue a luz
+
+
+pronto

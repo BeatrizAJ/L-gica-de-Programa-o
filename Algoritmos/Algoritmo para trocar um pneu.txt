@@ -1,0 +1,29 @@
+ Algoritmo para trocar um pneu de um carro
+
+Passo 1- se estiver na rua, ligue o pisca alerta
+
+Passo 2- se retire do carro e pegue o kit de reparo 
+
+Passo 3- se estiver na rua, pegue o triangulo de sinalização 
+
+Passo 4- pegue o estepe e coloque-o sob o carro
+
+Passo 5- garanta que o ferio de mão esteja acionado e o cambio, engatado 
+
+Passo 6- Desaperte o parafuso da roda danificada com o carro ainda no chao 
+
+Passo 7- coloque o macaco no local corret0
+
+Passo 8- Levante o veiculo utilizando o macaco
+
+
+Passo 9- use o pino centralizador
+
+Passo 10- Tire o pneu e troque-o pelo pneu novo
+
+Passo 11-abaixe o carro 
+
+Passo 9- prenda o pneu 
+
+
+pronto

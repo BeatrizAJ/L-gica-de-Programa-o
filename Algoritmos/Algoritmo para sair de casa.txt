@@ -1,0 +1,19 @@
+Algoritmo para sair de casa
+
+Passo 1- Checar as janelas 
+
+Passo 2- Fechar as janelas 
+
+Passo 3- fechar as cortinas 
+
+Passo 4- pegar a chave 
+
+Passo 5- checar se todas as torneiras estão fechadas 
+
+Passo 6- checar se o gas esta fechado, ou se ha coisas na tomada
+
+Passo 7- abrir a porta 
+
+Passo 8- sair, trancar a porta e sair 
+
+pronto

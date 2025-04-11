@@ -1,0 +1,14 @@
+Algoritmo para preparar um sanduíche
+
+
+Passo 1- pegar dois pedaços de pão.
+
+Passo 2- passar manteiga (ou outro ingrediente) nos pães, se desejar.
+
+Passo 3- colocar o recheio desejado (ex: presunto, queijo etc)
+
+Passo 4- Fechar o sanduíche com a outra fatia de pão.
+
+Passo 5- (Opcional) Levar à sanduicheira ou frigideira para aquecer.
+
+pronto 
