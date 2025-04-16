@@ -1,0 +1,31 @@
+08 - Algoritmo para finalizar o ambiente antes de ir embora do SENAI (desligar, limpar e guardar os notebooks e mouse).
+
+
+
+Passo 01- Fechar todas as abas do navegador 
+
+Passo 02- Desligar o computador
+
+Passo 03- Esperar alguns segundos depois de desligado
+
+Passo 04- Se dirigir a mesa do professor
+
+Passo 05- Pegar os panos e álcool 
+
+Passo 06- Ir a sua mesa, e tirar o Pendrive do mouse 
+
+Passo 07- Limpar a tela delicadamente com o pano húmido 
+
+Passo 08- Limpar as teclas do computador 
+
+Passo 09- Limpar as costas do computador 
+
+Passo 10- Limpar o mouse 
+
+Passo 11- Esperar sua vez para guardar o mouse
+
+Passo 12- Logo em seguida depois de guardar o mouse, guardar seu computador no lugar correspondente ao numero 
+
+Passo 13- Esperar os professores liberarem, e ir embora 
+
+
